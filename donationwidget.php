@@ -1,2 +1,0 @@
-<script id="funraise-embed-script-4840a13147" src="https://d2n4tvy2wsd0oo.cloudfront.net/widget/client/4840a131-3b68-4fa0-8264-4a41f095e387/47/funraise-1.1.js?isPopup=false" type="text/javascript"></script>
-<div id="fc-4840a13147"></div>
